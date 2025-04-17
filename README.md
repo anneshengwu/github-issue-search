@@ -13,28 +13,26 @@ _Take control of your workflow with powerful search filters, saved queries, and 
 
 </header>
 
-## Step 5: Use Keyboard Shortcuts for Efficiency
+## Finish
 
-GitHub's keyboard shortcuts can significantly speed up your workflow.
+_Congratulations on completing this course on GitHub Issue Search and Notifications!_
 
-### ⌨️ Essential Shortcuts
+<img src=https://octodex.github.com/images/collabocats.jpg alt=celebrate width=300 align=right>
 
-- Press `?` to view all available shortcuts
-- `g` + `i` to navigate to Issues
-- `/` to focus on the search bar
-- `j` and `k` to move between issues in a list
-- `o` or `Enter` to open an issue
-- `n` to create a new issue
+By mastering these tools, you've significantly improved your ability to:
+- Quickly find the issues that matter to you
+- Stay updated on important changes without being overwhelmed
+- Navigate GitHub more efficiently using keyboard shortcuts
+- Create custom workflows that match your team's needs
 
-### :keyboard: Task: Try Keyboard Navigation
+### What's next?
 
-1. Press `?` to view the keyboard shortcuts menu
-2. Use `g` + `i` to navigate to Issues
-3. Use `j` and `k` to move between issues
-4. Use `o` to open an issue
-5. Comment "shortcuts-learned" when complete
-
----
+- Try creating project boards to organize your issues visually
+- Explore GitHub Actions for automating issue management
+- Set up team-level notification rules if you're working in a team
+- We'd love to hear what you thought of this course [in our discussion board](https://github.com/orgs/skills/discussions/categories/issue-management)
+- [Take another GitHub Skills course](https://github.com/skills)
+- [Read the GitHub documentation on search syntax](https://docs.github.com/en/github/searching-for-information-on-github/searching-on-github/searching-issues-and-pull-requests)
 
 <footer>
 
