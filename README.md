@@ -13,25 +13,28 @@ _Take control of your workflow with powerful search filters, saved queries, and 
 
 </header>
 
-## Step 3: Manage Issue Subscriptions
+## Step 4: Configure Notification Preferences
 
-Staying informed about issues you care about is crucial for effective collaboration.
+Controlling how and when you receive notifications can prevent information overload.
 
-### 👀 Subscription Levels
+### 🔔 Notification Settings
 
-GitHub offers different ways to follow issues:
+GitHub lets you customize where and how often you receive notifications:
 
-- **Participating**: You'll be notified of any activity on issues where you've participated
-- **Watching**: You'll be notified of all activity on a repository
-- **Custom**: You can subscribe to specific issues without watching the entire repository
+- **Web notifications**: Appear in the GitHub interface
+- **Email notifications**: Can be sent immediately or in a daily digest
+- **Mobile notifications**: Available through the GitHub mobile app
 
-### :keyboard: Task: Set Up Subscriptions
+### :keyboard: Task: Customize Your Notification Settings
 
-1. Open an issue in your repository
-2. Look for the "Subscribe" button in the right sidebar
-3. Click it to subscribe to updates for this specific issue
-4. Visit another issue and unsubscribe if you're automatically subscribed
-5. Comment "subscribed" when complete
+1. Go to your GitHub profile settings
+2. Navigate to the "Notifications" section
+3. Review and update your notification preferences
+4. Choose your preferred notification methods for:
+   - Participating issues and PRs
+   - Watching repositories
+   - Security alerts
+5. Comment "notifications-configured" when complete
 
 ---
 
