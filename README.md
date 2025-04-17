@@ -13,28 +13,26 @@ _Take control of your workflow with powerful search filters, saved queries, and 
 
 </header>
 
-## Step 4: Configure Notification Preferences
+## Step 5: Use Keyboard Shortcuts for Efficiency
 
-Controlling how and when you receive notifications can prevent information overload.
+GitHub's keyboard shortcuts can significantly speed up your workflow.
 
-### 🔔 Notification Settings
+### ⌨️ Essential Shortcuts
 
-GitHub lets you customize where and how often you receive notifications:
+- Press `?` to view all available shortcuts
+- `g` + `i` to navigate to Issues
+- `/` to focus on the search bar
+- `j` and `k` to move between issues in a list
+- `o` or `Enter` to open an issue
+- `n` to create a new issue
 
-- **Web notifications**: Appear in the GitHub interface
-- **Email notifications**: Can be sent immediately or in a daily digest
-- **Mobile notifications**: Available through the GitHub mobile app
+### :keyboard: Task: Try Keyboard Navigation
 
-### :keyboard: Task: Customize Your Notification Settings
-
-1. Go to your GitHub profile settings
-2. Navigate to the "Notifications" section
-3. Review and update your notification preferences
-4. Choose your preferred notification methods for:
-   - Participating issues and PRs
-   - Watching repositories
-   - Security alerts
-5. Comment "notifications-configured" when complete
+1. Press `?` to view the keyboard shortcuts menu
+2. Use `g` + `i` to navigate to Issues
+3. Use `j` and `k` to move between issues
+4. Use `o` to open an issue
+5. Comment "shortcuts-learned" when complete
 
 ---
 
